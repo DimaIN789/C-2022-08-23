@@ -1,0 +1,15 @@
+E:\IT\GIT\C#\2826\seminar6\task40\obj\Debug\net6.0\task40.csproj.AssemblyReference.cache
+E:\IT\GIT\C#\2826\seminar6\task40\obj\Debug\net6.0\task40.GeneratedMSBuildEditorConfig.editorconfig
+E:\IT\GIT\C#\2826\seminar6\task40\obj\Debug\net6.0\task40.AssemblyInfoInputs.cache
+E:\IT\GIT\C#\2826\seminar6\task40\obj\Debug\net6.0\task40.AssemblyInfo.cs
+E:\IT\GIT\C#\2826\seminar6\task40\obj\Debug\net6.0\task40.csproj.CoreCompileInputs.cache
+E:\IT\GIT\C#\2826\seminar6\task40\bin\Debug\net6.0\task40.exe
+E:\IT\GIT\C#\2826\seminar6\task40\bin\Debug\net6.0\task40.deps.json
+E:\IT\GIT\C#\2826\seminar6\task40\bin\Debug\net6.0\task40.runtimeconfig.json
+E:\IT\GIT\C#\2826\seminar6\task40\bin\Debug\net6.0\task40.dll
+E:\IT\GIT\C#\2826\seminar6\task40\bin\Debug\net6.0\task40.pdb
+E:\IT\GIT\C#\2826\seminar6\task40\obj\Debug\net6.0\task40.dll
+E:\IT\GIT\C#\2826\seminar6\task40\obj\Debug\net6.0\refint\task40.dll
+E:\IT\GIT\C#\2826\seminar6\task40\obj\Debug\net6.0\task40.pdb
+E:\IT\GIT\C#\2826\seminar6\task40\obj\Debug\net6.0\task40.genruntimeconfig.cache
+E:\IT\GIT\C#\2826\seminar6\task40\obj\Debug\net6.0\ref\task40.dll

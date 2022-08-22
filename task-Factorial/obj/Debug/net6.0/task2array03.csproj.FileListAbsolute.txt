@@ -1,0 +1,15 @@
+E:\IT\GIT\C#\2826\seminar6\task-2array03\bin\Debug\net6.0\task2array03.exe
+E:\IT\GIT\C#\2826\seminar6\task-2array03\bin\Debug\net6.0\task2array03.deps.json
+E:\IT\GIT\C#\2826\seminar6\task-2array03\bin\Debug\net6.0\task2array03.runtimeconfig.json
+E:\IT\GIT\C#\2826\seminar6\task-2array03\bin\Debug\net6.0\task2array03.dll
+E:\IT\GIT\C#\2826\seminar6\task-2array03\bin\Debug\net6.0\task2array03.pdb
+E:\IT\GIT\C#\2826\seminar6\task-2array03\obj\Debug\net6.0\task2array03.csproj.AssemblyReference.cache
+E:\IT\GIT\C#\2826\seminar6\task-2array03\obj\Debug\net6.0\task2array03.GeneratedMSBuildEditorConfig.editorconfig
+E:\IT\GIT\C#\2826\seminar6\task-2array03\obj\Debug\net6.0\task2array03.AssemblyInfoInputs.cache
+E:\IT\GIT\C#\2826\seminar6\task-2array03\obj\Debug\net6.0\task2array03.AssemblyInfo.cs
+E:\IT\GIT\C#\2826\seminar6\task-2array03\obj\Debug\net6.0\task2array03.csproj.CoreCompileInputs.cache
+E:\IT\GIT\C#\2826\seminar6\task-2array03\obj\Debug\net6.0\task2array03.dll
+E:\IT\GIT\C#\2826\seminar6\task-2array03\obj\Debug\net6.0\refint\task2array03.dll
+E:\IT\GIT\C#\2826\seminar6\task-2array03\obj\Debug\net6.0\task2array03.pdb
+E:\IT\GIT\C#\2826\seminar6\task-2array03\obj\Debug\net6.0\task2array03.genruntimeconfig.cache
+E:\IT\GIT\C#\2826\seminar6\task-2array03\obj\Debug\net6.0\ref\task2array03.dll
